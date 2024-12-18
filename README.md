@@ -88,11 +88,11 @@ python car_counter.py
 
 ## Contributeur
 
-**HASSAN EL BAHRAOUI**
+**HASSAN EL BAHRAOUI**,
 Contact : [GitHub](https://github.com/HAS1ELB)
 
-**WALID EL BACHAR**
+**WALID EL BACHAR**,
 Contact : [GitHub](https://github.com/lidwaa)
 
-**Dehbi KAMAL**
+**Dehbi KAMAL**,
 Contact : [GitHub](https://github.com/kamaLc73)
