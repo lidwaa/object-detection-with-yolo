@@ -90,3 +90,7 @@ python car_counter.py
 
 **HASSAN EL BAHRAOUI**
 Contact : [GitHub](https://github.com/HAS1ELB)
+**WALID EL BACHAR**
+Contact : [GitHub](https://github.com/lidwaa)
+**Dehbi KAMAL**
+Contact : [GitHub](https://github.com/kamaLc73)
